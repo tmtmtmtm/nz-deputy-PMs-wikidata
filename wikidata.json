@@ -1,0 +1,246 @@
+[
+  {
+    "item": {
+      "value": "Q637012",
+      "label": "Keith Holyoake"
+    },
+    "replacedBy": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "statement": "Q637012$76508B86-88E2-4F10-BB96-F2ED122E67A5",
+    "start": "1949-12-13T00:00:00Z",
+    "end": "1957-09-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replaces": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "replacedBy": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "statement": "Q284733$A9F94460-3220-4D41-8C33-CE3712BA2C5F",
+    "start": "1957-09-20T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "statement": "Q284733$C09D5204-107B-4DEF-BBD7-ECB3B0BA9A79",
+    "ordinal": "2",
+    "start": "1957-09-20T00:00:00Z",
+    "end": "1957-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "replaces": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q4476255",
+      "label": "Hugh Watt"
+    },
+    "statement": "Q737739$5399244D-BF71-4B8F-A530-8C0351BC127B",
+    "ordinal": "4",
+    "start": "1972-02-09T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replaces": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "replacedBy": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "statement": "Q461383$E7A2FAFA-337E-442D-BE32-36C43129B773",
+    "ordinal": "7",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1981-03-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6135999",
+      "label": "Jim McLay"
+    },
+    "replaces": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replacedBy": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "statement": "Q6135999$D1810FA1-2B34-4922-BB7D-75BE54E0EC2F",
+    "ordinal": "9",
+    "start": "1984-03-15T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replaces": {
+      "value": "Q6135999",
+      "label": "Jim McLay"
+    },
+    "replacedBy": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "Q1385100$D0746209-525C-476E-8EDF-842670E03DD0",
+    "ordinal": "10",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1989-08-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "q180383$9a7e2f04-42f1-1fbd-2e36-2a820efb7fb8",
+    "start": "1989-08-08T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
+    "replaces": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replacedBy": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "statement": "Q599938$E8FA4A57-1A72-4653-804E-E689AA3ECECB",
+    "ordinal": "12",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1996-12-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replaces": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
+    "replacedBy": {
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
+    },
+    "statement": "Q1396178$6F4F2896-9096-4BD8-BF73-C08E4BF6977B",
+    "ordinal": "13",
+    "start": "1996-12-16T00:00:00Z",
+    "end": "1998-08-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "replaces": {
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
+    },
+    "replacedBy": {
+      "value": "Q2622925",
+      "label": "Michael Cullen"
+    },
+    "statement": "Q1036723$3CACC642-4711-4879-9A31-EE6C2907BFE8",
+    "ordinal": "15",
+    "start": "1999-12-05T00:00:00Z",
+    "end": "2002-08-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2622925",
+      "label": "Michael Cullen"
+    },
+    "replaces": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "replacedBy": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "statement": "Q2622925$05F62BDB-8010-424A-A080-2B98B5881336",
+    "ordinal": "16",
+    "start": "2002-08-15T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replaces": {
+      "value": "Q2622925",
+      "label": "Michael Cullen"
+    },
+    "replacedBy": {
+      "value": "Q6416051",
+      "label": "Paula Bennett"
+    },
+    "statement": "Q4384608$AD616B1D-C849-45E5-82F2-08794095164A",
+    "ordinal": "17",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2016-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6416051",
+      "label": "Paula Bennett"
+    },
+    "replaces": {
+      "value": "Q4384608",
+      "label": "Bill English"
+    },
+    "replacedBy": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "statement": "Q6416051$ce1b3011-4160-1918-dfbc-e50d165d31da",
+    "start": "2016-12-12T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replaces": {
+      "value": "Q6416051",
+      "label": "Paula Bennett"
+    },
+    "statement": "Q1396178$93decc1e-471d-70d4-42d9-6b2b5d6a1bb8",
+    "start": "2017-10-26T00:00:00Z"
+  }
+]
