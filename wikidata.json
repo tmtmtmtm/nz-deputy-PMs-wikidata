@@ -9,7 +9,8 @@
       "label": "Jack Marshall"
     },
     "statement": "Q637012$76508B86-88E2-4F10-BB96-F2ED122E67A5",
-    "start": "1949-12-13T00:00:00Z",
+    "ordinal": "1",
+    "start": "1954-11-13T00:00:00Z",
     "end": "1957-09-20T00:00:00Z"
   },
   {
@@ -45,6 +46,24 @@
   },
   {
     "item": {
+      "value": "Q5126745",
+      "label": "Clarence Skinner"
+    },
+    "replaces": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "replacedBy": {
+      "value": "Q284733",
+      "label": "Jack Marshall"
+    },
+    "statement": "Q5126745$521B1F1F-28F7-4413-B7FC-E976751D1791",
+    "ordinal": "3",
+    "start": "1957-12-12T00:00:00Z",
+    "end": "1960-12-12T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q737739",
       "label": "Robert Muldoon"
     },
@@ -63,6 +82,42 @@
   },
   {
     "item": {
+      "value": "Q4476255",
+      "label": "Hugh Watt"
+    },
+    "replaces": {
+      "value": "Q737739",
+      "label": "Robert Muldoon"
+    },
+    "replacedBy": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "statement": "Q4476255$DBBB6A31-C1DE-4A62-9751-90622FADC8C1",
+    "ordinal": "5",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1974-09-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4934206",
+      "label": "Bob Tizard"
+    },
+    "replaces": {
+      "value": "Q4476255",
+      "label": "Hugh Watt"
+    },
+    "replacedBy": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "statement": "Q4934206$A42883E7-DB1A-4120-AFFD-A78BEBB0CA2E",
+    "ordinal": "6",
+    "start": "1974-09-10T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q461383",
       "label": "Brian Talboys"
     },
@@ -78,6 +133,24 @@
     "ordinal": "7",
     "start": "1975-12-12T00:00:00Z",
     "end": "1981-03-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replaces": {
+      "value": "Q461383",
+      "label": "Brian Talboys"
+    },
+    "replacedBy": {
+      "value": "Q6135999",
+      "label": "Jim McLay"
+    },
+    "statement": "Q5314460$580EF16C-208F-468F-B48B-DFAFB912837D",
+    "ordinal": "8",
+    "start": "1981-03-04T00:00:00Z",
+    "end": "1984-03-15T00:00:00Z"
   },
   {
     "item": {
@@ -120,7 +193,16 @@
       "value": "Q180383",
       "label": "Helen Clark"
     },
+    "replaces": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replacedBy": {
+      "value": "Q599938",
+      "label": "Don McKinnon"
+    },
     "statement": "q180383$9a7e2f04-42f1-1fbd-2e36-2a820efb7fb8",
+    "ordinal": "11",
     "start": "1989-08-08T00:00:00Z",
     "end": "1990-11-02T00:00:00Z"
   },
@@ -162,6 +244,24 @@
   },
   {
     "item": {
+      "value": "Q8039486",
+      "label": "Wyatt Creech"
+    },
+    "replaces": {
+      "value": "Q1396178",
+      "label": "Winston Peters"
+    },
+    "replacedBy": {
+      "value": "Q1036723",
+      "label": "Jim Anderton"
+    },
+    "statement": "Q8039486$28B9392B-F764-47C6-AD3F-6D4FB0333459",
+    "ordinal": "14",
+    "start": "1998-08-14T00:00:00Z",
+    "end": "1999-12-10T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q1036723",
       "label": "Jim Anderton"
     },
@@ -175,7 +275,7 @@
     },
     "statement": "Q1036723$3CACC642-4711-4879-9A31-EE6C2907BFE8",
     "ordinal": "15",
-    "start": "1999-12-05T00:00:00Z",
+    "start": "1999-12-10T00:00:00Z",
     "end": "2002-08-15T00:00:00Z"
   },
   {
@@ -228,6 +328,7 @@
       "label": "Winston Peters"
     },
     "statement": "Q6416051$ce1b3011-4160-1918-dfbc-e50d165d31da",
+    "ordinal": "18",
     "start": "2016-12-12T00:00:00Z",
     "end": "2017-10-26T00:00:00Z"
   },
